@@ -39,3 +39,5 @@ PRs welcome. Keep utilities focused, well-named, and dependency-free where possi
 ## License
 
 MIT
+
+<!-- Updated -->
